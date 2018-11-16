@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>soucil.cn</title>
+<link href="favicon.ico" rel="icon" type="image/x-icon" />
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+<link href="we0.css"  rel="stylesheet" type="text/css" >
+</head>
+<body>
+	<div class="page1">
+<div class="img">
+<div class="text1">
+<p>平稳退化</p>
+</div>
+<div class="text2">
+<p>渐近增强</p></div>
+<div class="text3">
+<p>以用户为中心</p>
+</div>
+<div class="list1"></div>
+<div class="list2"></div>
+<div class="list3"></div>
+</div>
+</div>
+<div class="page2">
+	<div class="page2whole">
+<div class="header">
+	<center>
+		<p>这只是一个测试
+		</p>
+<p>选择一张你喜欢的图片，你可以分享或下载到你的电脑</p>
+<p>后续跟进</p>
+	</center>
+</div>
+<div class="showphoto">
+<p id="tup">Hello,World!</p>
+</div>
+
+</div>
+</div>
+<div class="page3">
+	<div class="page3whole">
+		
+<center>
+<h1>加入Soucil<h1>
+	<br/>
+	<p>您可以与全世界的人分享您喜欢的照片,并可以在soucil中下载您喜欢的图片</p>
+	<button a href="#" id="button1">点击注册吧</button>
+</center>
+	<hr>
+</div>
+</div>
+<div class="page4">
+<div class="page4whole">
+	<div id="onepart">
+<p>Soucil&nbsp;&nbsp;Recommend&nbsp;<span >你可以点击以下三张图片查看我的PD</span></p>
+	</div>
+	<div id="twopart">
+<div class="box">
+<figure class="t1">
+<a href="https://weibo.com/5658251400/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" target="_blank"><img src="D:\图片素材\person1.jpg" width="300" height="333" alt="soucil recommend" title="点击进入"></a>
+<figcaption>
+<p>这是一个测试,点击进入微博</p>
+
+</figcaption>
+</figure>
+<figure class="t1">
+<a href="4.html"><img src="D:\图片素材\we.jpg" width="300" height="333" alt="soucil recommend" title="点击进入"></a>
+<figcaption><p>这是一个测试，点击进入页面</p>
+</figcaption>
+</figure>
+
+<figure class="t1">
+<a href="#"><img src="D:\图片素材\sassa.jpg" width="300" height="333" alt="soucil recommend" title="点击进入">
+</a>
+
+<figcaption>
+<p>这是一个测试，点击进入页面</p>
+
+</figcaption>
+</figure>
+
+</div>
+	</div>
+</div>
+</div>
+<div class="page5">
+<div class="page5whole">
+	<div class="extra">
+<p>&#8727;注:以上图片来源网络,如有侵权请联系我</p>
+	</div>
+	<div class="infor1">
+<ul >
+<li>
+	关于Soucil
+
+</li>
+<li>了解我</li>
+<li>联系我</li>
+
+</ul>
+<div class="infor2">
+	<ul>
+<li>What's&nbsp;Soucil</li>
+<li>Soucil&nbsp;简介</li>
+<li>Soucil&nbsp;App</li>
+</ul></div>
+<div class="infor3">
+	<ul>
+<li><a href="https://github.com/yangxianwei1/Soucil" target="_blank">GitHub库</a></li>
+<li><a href="#">My&nbsp;ProShow</a></li>
+<li>我的微博</li></ul></div>
+<div class="infor4">
+	<ul>
+
+<li><a href="mailto:1395945757@qq.com?subject=您有什么问题&body=您好，欢迎访问soucil">点击此处即可发送邮件给我</a></li></ul></div>
+	</div>
+</div>
+</div>
+<script>
+window.onload=function(){
+var ab=document.getElementById("button1");
+ab.onclick=function(){
+	alert("欢迎注册,这只是一个测试");
+}
+
+
+}
+
+</script>
+</body>
+
+
+</html>
